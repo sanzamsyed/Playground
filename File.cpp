@@ -44,8 +44,4 @@ int main()
     file.close();
 
 
-
-
-
-
 }
